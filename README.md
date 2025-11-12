@@ -3,6 +3,8 @@
 
 招募AFFMAN，拉人40%循环返利。用户一直续费一直返。
 
+月付15，年付平均10。二十多个节点，解锁gpt和流媒体，无审计。
+
 机场机场网址https://haavk.space/
 
 综合教程网址https://shadowrocket.space/
