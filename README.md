@@ -14,3 +14,14 @@
 教程网址https://iosjs.site/
 
 小火箭教程网址https://ios.shadowrocket.space/
+
+
+如果您在使用苹果iOS系统，我推荐您使用 Shadowrocket。
+
+如果您在使用安卓Android系统，我推荐您使用 V2RayNG 或 ClashForAndroid。
+
+如果您在使用Windows系统，我推荐您使用 V2RayN 或 Clash for Windows。
+
+如果您在使用苹果macOS系统，我推荐您使用 ClashX 或 Clash for Windows。
+
+如果您在使用Linux系统，我推荐您使用 Clash for Windows。
