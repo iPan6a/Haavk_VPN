@@ -10,7 +10,9 @@ Haavk加速订阅节点机场、ssr节点、v2ray节点、v2ray订阅、clash节
 
 主页网址https://shadowrocket.iosjs.site/
 
-教程网址https://iosjs.site/
+小火箭教程网址https://iosjs.site/
+
+小火箭教程网址https://blog.iosjs.site/
 
 小火箭教程网址https://ios.shadowrocket.space/
 
