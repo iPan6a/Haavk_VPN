@@ -4,17 +4,17 @@ Haavk加速订阅节点机场、ssr节点、v2ray节点、v2ray订阅、clash节
 
 月付15，年付平均10。二十多个节点，解锁gpt和流媒体，无审计。
 
-机场机场网址https://haavk.space/
+机场机场网址https://link.haavk.space/
 
 综合教程网址https://shadowrocket.space/
 
+综合教程网址https://huojian.blog/
+
 主页网址https://shadowrocket.iosjs.site/
 
+主页网址https://xiaohuojian.site/
+
 小火箭教程网址https://iosjs.site/
-
-小火箭教程网址https://blog.iosjs.site/
-
-小火箭教程网址https://ios.shadowrocket.space/
 
 
 如果您在使用苹果iOS系统，我推荐您使用 Shadowrocket。
