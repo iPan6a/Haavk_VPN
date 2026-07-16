@@ -1,21 +1,18 @@
-Haavk加速订阅节点机场、ssr节点、v2ray节点、v2ray订阅、clash节点、clash订阅、shadowrocket订阅、Quantumult X订阅、Clash .NET订阅、小火箭节点、小猫咪节点、免费翻墙、免费科学上网、免费梯子、免费trojan节点、蓝灯、谷歌商店、翻墙梯子、安卓VPN、iphone翻墙节点、iphone vpn、一键翻墙浏览器、节点分享、免费SSR、蓝灯、谷歌商店、V2ary免费节点、代理、proxy代理科学上网、TG代理、电报代理、Telegram代理、ip加速、翻墙软件、socks5、破解VPN、机场推荐、节点订阅
+大狗加速订阅节点机场、ssr节点、v2ray节点、v2ray订阅、clash节点、clash订阅、shadowrocket订阅、Quantumult X订阅、Clash .NET订阅、小火箭节点、小猫咪节点、免费翻墙、免费科学上网、免费梯子、免费trojan节点、蓝灯、谷歌商店、翻墙梯子、安卓VPN、iphone翻墙节点、iphone vpn、一键翻墙浏览器、节点分享、免费SSR、蓝灯、谷歌商店、V2ary免费节点、代理、proxy代理科学上网、TG代理、电报代理、Telegram代理、ip加速、翻墙软件、socks5、破解VPN、机场推荐、节点订阅
 
 招募AFFMAN，拉人40%循环返利。用户一直续费一直返。
 
 月付15，年付平均10。二十多个节点，解锁gpt和流媒体，无审计。
 
-机场机场网址https://link.haavk.space/
+机场机场网址https://link.dagou.cloud
 
-综合教程网址https://shadowrocket.space/
+综合教程网址https://huojian.space
 
-综合教程网址https://huojian.blog/
+综合教程网址https://xhuojian.space
 
-主页网址https://shadowrocket.iosjs.site/
+综合教程网址https://wrocket.space
 
-主页网址https://xiaohuojian.site/
-
-小火箭教程网址https://iosjs.site/
-
+综合教程网址https://jiedian.blog
 
 如果您在使用苹果iOS系统，我推荐您使用 Shadowrocket。
 
