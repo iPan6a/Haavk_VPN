@@ -8,11 +8,13 @@
 
 综合教程网址https://huojian.space
 
-综合教程网址https://xhuojian.space
+综合教程网址https://huojianx.space
 
 综合教程网址https://wrocket.space
 
-综合教程网址https://jiedian.blog
+综合教程网址https://xiaohuojian.blog
+
+综合教程网址https://jiedianx.com
 
 如果您在使用苹果iOS系统，我推荐您使用 Shadowrocket。
 
