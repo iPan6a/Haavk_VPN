@@ -12,7 +12,7 @@
 
 综合教程网址https://wrocket.space
 
-综合教程网址https://xiaohuojian.blog
+综合教程网址https://xhuojian.blog
 
 综合教程网址https://jiedianx.com
 
